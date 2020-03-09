@@ -17,7 +17,12 @@ table{
 	text-align: center;
 }
 h1{
+	text-align: center;
 	font-family: 'Indie Flower', cursive;
+	background-color: #FFDEAD;
+	border-radius: 50%;
+	width: 500px;
+	margin: 30px auto;
 }
 body{
 	background-color: #FFFAF0;
