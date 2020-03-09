@@ -1,0 +1,26 @@
+table, tr, td{
+	border-collapse:collapse;
+	border:solid 1px #000000;
+	margin: auto;
+}
+td{
+	width:300px;
+	height:200px;	
+}
+div.container{
+	margin: 0 auto 0;
+}
+table{
+	background-color: #F0FFFF;
+}
+.center{
+	text-align: center;
+}
+h1{
+	font-family: 'Indie Flower', cursive;
+}
+body{
+	//background-image: url('image/back.jpg');
+	background-color: #FFFAF0;
+}
+

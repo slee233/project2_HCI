@@ -1,0 +1,14 @@
+h1{
+	text-align: center;
+	font-family: 'Cinzel', serif;
+}
+.right{
+	text-align: right;
+}
+h3{
+	background-color: #FFEFD5;
+	font-family: 'Cinzel', serif;
+}
+h2, p{
+	font-family: 'Crimson Text', serif;
+}
